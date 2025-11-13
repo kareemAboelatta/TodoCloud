@@ -9,11 +9,11 @@ group = "com.foreach"
 version = "0.0.1-SNAPSHOT"
 description = "TodoCloud backend "
 
-java {
-	toolchain {
-		languageVersion = JavaLanguageVersion.of(17)
-	}
-}
+//java {
+//	toolchain {
+//		languageVersion = JavaLanguageVersion.of(17)
+//	}
+//}
 
 repositories {
 	mavenCentral()
